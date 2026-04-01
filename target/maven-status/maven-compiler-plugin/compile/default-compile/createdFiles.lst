@@ -1,0 +1,9 @@
+com\mycompany\bank\adminServlet.class
+com\mycompany\bank\AdminLoginServlet.class
+com\mycompany\bank\logout.class
+com\mycompany\bank\RegDAO.class
+com\mycompany\bank\submitAccountServlet.class
+com\mycompany\bank\JakartaRestConfiguration.class
+com\mycompany\bank\LoginServlet.class
+com\mycompany\bank\Reg.class
+com\mycompany\bank\resources\JakartaEE10Resource.class
